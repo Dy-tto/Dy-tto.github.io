@@ -21,7 +21,7 @@
   * [Algorithm](#algorithm)
   * [Database](#database)
   * [Operating System](#operating-system)
-
+- [Etc](#etc)
 ## Mathematics
 
 수학은 머신러닝/딥러닝 알고리즘을 이해하기 위해 가장 기초적인 지식입니다.
@@ -148,4 +148,8 @@
 
 강의
 * [운영체제 공룡책 강의(inflearn)](https://www.inflearn.com/course/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C-%EA%B3%B5%EB%A3%A1%EC%B1%85-%EC%A0%84%EA%B3%B5%EA%B0%95%EC%9D%98) : 공룡책 10th Edition 국내 강의
+
+## Etc
+### 대학원 면접 준비
+* [전공 면접 질문 리스트](https://jrc-park.tistory.com/259?category=487571)
 
