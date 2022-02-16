@@ -107,6 +107,7 @@
 
 ### 연구 인턴
 * [KAIST AI대학원 인턴](https://gsai.kaist.ac.kr/?lang=ko) : 방학마다 카이스트에서 인턴 프로그램을 한다. 대학원 진학에 관심이 있다면 알아 두는게 좋을 것 같습니다.
+* [SNU AIIS 인턴](https://aiis.snu.ac.kr/index.php) : 방학마다 서울대학교 AI연구원에서 연구실 인턴십을 진행합니다.
 
 ### 논문 관련 사이트
 * [Papers With Code](https://paperswithcode.com/sota) : 발표되는 논문들의 토픽을 성능 순으로 정리 해놓는 사이트입니다. 오픈소스로 코드가 공개된 경우 링크도 같이 올려줍니다.
