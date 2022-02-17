@@ -10,6 +10,7 @@
 - [Machine Learning](#machine-learning)
   * [Machine Learning](#machine-learning)
   * [Deep Learning](#deep-learning)
+  * [Graph Neural Network](#graph-neural-network)
 - [Projects](#projects)
   * [대외 활동](#대외-활동)
   * [대회](#대회)
@@ -89,6 +90,18 @@
 * [앤드류 응 머신러닝](https://www.coursera.org/learn/machine-learning/home/welcome)
 * [Transformer](https://www.youtube.com/watch?v=TQQlZhbC5ps)
 
+### Graph Neural Network
+* [[GCN] Basic of Graph Convolution Network](https://www.youtube.com/watch?v=YL1jGgcY78U&t=1420s) : 딥러닝 홀로서기 GCN개념을 쉽게 설명해줌
+* [Graph Attention Networks](https://www.youtube.com/watch?v=NSjpECvEf0Y&t=4150s) : Attention 개념부터 Graph Attention Networs에 대해 쉽게 설명함
+* [GNN 소개 — 기초부터 논문까지](https://medium.com/watcha/gnn-%EC%86%8C%EA%B0%9C-%EA%B8%B0%EC%B4%88%EB%B6%80%ED%84%B0-%EB%85%BC%EB%AC%B8%EA%B9%8C%EC%A7%80-96567b783479)
+* [Graph Neural Network by SAMSUNG SOFTWARE MEMBERSHIP](http://www.secmem.org/blog/2019/08/17/gnn/?fbclid=IwAR1Iu8vR4Ug0eCkgUC0m4SB28-S88g5i91B0lf3s6tphjeDsr3S8wNHkvWI)
+* [CS224W-Stanford](https://www.youtube.com/watch?v=JAB_plj2rbA&list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn&index=2)
+* [Intro to graph neural networks (ML Tech Talks)(Tensorflow Youtube)](https://www.youtube.com/watch?v=8owQBFAHw7E&t=898s)
+* [An Introduction to Graph Neural Networks: Models and Applications](https://www.youtube.com/watch?v=zCEYiCxrL_0&t=5s)
+* [Must-read papers on GNN(논문 모음)](https://github.com/thunlp/GNNPapers)
+* [medium (gnn use case 등 자료 많음)](https://gordicaleksa.medium.com/how-to-get-started-with-graph-machine-learning-afa53f6f963a)
+* [GAT GIT 자료](https://github.com/gordicaleksa/pytorch-GAT)
+* [GNN 투빅스 자료](https://velog.io/@tobigs-gnn1213/1.-Introduction-Structure-of-graph)
 
 ## Projects
 
