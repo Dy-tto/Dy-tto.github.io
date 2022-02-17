@@ -8,6 +8,7 @@
   * [Linear Algebra](#linear-algebra)
   * [Statistics](#statistics)
 - [Machine Learning](#machine-learning)
+  * [Data Science](#data-science)
   * [Machine Learning](#machine-learning)
   * [Deep Learning](#deep-learning)
   * [Graph Neural Network](#graph-neural-network)
@@ -68,13 +69,18 @@
 
 ## Machine Learning
 
-### Machine Learning
+### Data Science
 책
 * [파이썬 라이브러리를 활용한 데이터 분석](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791162241905&orderClick=LEa&Kc=)
+강의
+* [Applied Data Science With Python(Cousera)](https://www.coursera.org/specializations/data-science-python)
+### Machine Learning
+책
 * [파이썬 라이브러리를 활용한 머신러닝](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791162241646&orderClick=LEa&Kc=)
 * [파이썬을 활용한 머신러닝 쿡북](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791162241950&orderClick=LEa&Kc=)
 
 강의
+* [Machine Learning(Cousera)](https://www.coursera.org/learn/machine-learning/home/info)
 * [SKplanet Tacademy](https://www.youtube.com/c/SKplanetTacademy)
 
 
@@ -87,7 +93,6 @@
 * [MIT CS231N(한글자막)](https://github.com/visionNoob/CS231N_17_KOR_SUB)
 * [모두의 딥러닝 Pytorch](https://www.youtube.com/watch?v=7eldOrjQVi0&list=PLQ28Nx3M4JrhkqBVIXg-i5_CVVoS1UzAv)
 * [모두의 딥러닝 TensorFlow2](https://www.youtube.com/watch?v=7eldOrjQVi0&list=PLQ28Nx3M4Jrguyuwg4xe9d9t2XE639e5C)
-* [앤드류 응 머신러닝](https://www.coursera.org/learn/machine-learning/home/welcome)
 * [Transformer](https://www.youtube.com/watch?v=TQQlZhbC5ps)
 
 ### Graph Neural Network
