@@ -82,6 +82,7 @@
 강의
 * [Machine Learning(Cousera)](https://www.coursera.org/learn/machine-learning/home/info)
 * [SKplanet Tacademy](https://www.youtube.com/c/SKplanetTacademy)
+* [메타코드 ML강의](https://www.youtube.com/watch?v=oyzIT1g1Z3U)
 
 
 ### Deep Learning
