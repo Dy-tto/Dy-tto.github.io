@@ -1,5 +1,5 @@
-# Road To Machine Learning
-제가 지금까지 공부한/할 머신러닝/딥러닝 관련 로드맵 입니다. (추가 -ing)
+# Recommender System Roadmap
+공부한/할 자료 저장소 (추가 -ing)
 
 ## Contents
 
