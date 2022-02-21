@@ -112,6 +112,7 @@
 * [LightGCN](https://arxiv.org/abs/2002.02126)
 * [UltraGCN](https://arxiv.org/abs/2110.15114)
 * [RS-KR GNN-Beginner](https://github.com/RS-KR/GNN-RS-Beginner) :***
+* [KGAT: Knowledge Graph Attention Network for Recommendation](https://arxiv.org/abs/1905.07854)
 ## Projects
 
 ### 대외 활동
