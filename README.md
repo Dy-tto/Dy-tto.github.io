@@ -108,7 +108,10 @@
 * [medium (gnn use case 등 자료 많음)](https://gordicaleksa.medium.com/how-to-get-started-with-graph-machine-learning-afa53f6f963a)
 * [GAT GIT 자료](https://github.com/gordicaleksa/pytorch-GAT)
 * [GNN 투빅스 자료](https://velog.io/@tobigs-gnn1213/1.-Introduction-Structure-of-graph)
-
+* [Neural Graph Collaborative Filtering](https://arxiv.org/abs/1905.08108)
+* [LightGCN](https://arxiv.org/abs/2002.02126)
+* [UltraGCN](https://arxiv.org/abs/2110.15114)
+* [RS-KR GNN-Beginner](https://github.com/RS-KR/GNN-RS-Beginner) :***
 ## Projects
 
 ### 대외 활동
