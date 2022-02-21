@@ -113,6 +113,7 @@
 * [UltraGCN](https://arxiv.org/abs/2110.15114)
 * [RS-KR GNN-Beginner](https://github.com/RS-KR/GNN-RS-Beginner) :***
 * [KGAT: Knowledge Graph Attention Network for Recommendation](https://arxiv.org/abs/1905.07854)
+* [Amazon-Dive into Deep Learning](https://d2l.ai/chapter_recommender-systems/index.html)
 ## Projects
 
 ### 대외 활동
