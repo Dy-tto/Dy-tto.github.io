@@ -178,3 +178,8 @@
 ### 대학원 면접 준비
 * [전공 면접 질문 리스트](https://jrc-park.tistory.com/259?category=487571)
 
+### Tech Blogs
+* [Google Developers](https://developers.googleblog.com/)
+* [Netflix Tech Blog](https://medium.com/)
+* [Uber Tech Blog](https://eng.uber.com/?s=graph+neural)
+
