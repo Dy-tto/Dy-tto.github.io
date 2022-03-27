@@ -172,6 +172,7 @@
 * [Operating System Concepts](http://www.kyobobook.co.kr/product/detailViewEng.laf?ejkGb=ENG&mallGb=ENG&barcode=9781119586166&orderClick=LAG&Kc=) : 운영체제의 바이블 공룡책
 
 강의
+* [운영체제 (KOCW, 반효경)](http://www.kocw.net/home/m/search/kemView.do?kemId=1046323)
 * [운영체제 공룡책 강의(inflearn)](https://www.inflearn.com/course/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C-%EA%B3%B5%EB%A3%A1%EC%B1%85-%EC%A0%84%EA%B3%B5%EA%B0%95%EC%9D%98) : 공룡책 10th Edition 국내 강의
 
 ## Etc
